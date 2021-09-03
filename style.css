@@ -113,7 +113,6 @@ input[type="checkbox"] {
 
 @media (max-width: 860px) {
   .main {
-    padding-top: 20px;
     height: auto;
     width: 100%;
     text-align: center;
